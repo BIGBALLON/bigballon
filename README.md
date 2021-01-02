@@ -3,3 +3,6 @@
 </a>
 
 [![bigballon's github stats](https://github-readme-stats.vercel.app/api?username=bigballon&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&count_private=true)](https://github.com/bigballon)
+
+He has a passion for sharing his learning experience with others.  
+Feel free to contact him if you have any questions!
