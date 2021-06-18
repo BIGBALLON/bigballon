@@ -4,5 +4,4 @@
 
 [![bigballon's github stats](https://github-readme-stats.vercel.app/api?username=bigballon&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&count_private=true)](https://github.com/bigballon)
 
-He has a passion for sharing his learning experience with others.  
-Feel free to contact him if you have any questions!
+Wei Li (李韡) is a Computer Science M.S. student in Institute of Computer Science and Engineering at National Chiao Tung University(NCTU), advised by Prof. I-Chen Wu. He is a member of Computer Games and Intelligence([CGI](https://cgilab.nctu.edu.tw/)) Lab . His research interests lie in the field of Deep Learning, (Deep) Reinforcement Learning and Computer Games AI. He has a passion for sharing his learning experience with others. Feel free to contact him if you have any questions!
